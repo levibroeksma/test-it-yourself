@@ -1,0 +1,23 @@
+{
+  "name": "test-it-yourself",
+  "version": "1.0.0",
+  "description": "Test it yourself is an assignment writting for an other student",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levibroeksma/test-it-yourself.git"
+  },
+  "author": "Levi Broeksma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levibroeksma/test-it-yourself/issues"
+  },
+  "homepage": "https://github.com/levibroeksma/test-it-yourself#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
